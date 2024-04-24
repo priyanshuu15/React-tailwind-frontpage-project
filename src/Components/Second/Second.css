@@ -1,0 +1,47 @@
+
+.titlee {
+   position: relative;
+   top: 45%;
+   height: 0.1rem;
+}
+.line{
+    border: 2px solid silver;
+}
+.card{
+    display: flex;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 0.2rem;
+   row-gap: 3rem;
+   padding: 1rem;
+   
+}
+.card-r{
+    margin-right: 4rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.card-l{
+    margin: 3rem 4rem 2rem 1rem;
+    /* margin-right: 4rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem; */
+}
+.card-m{
+    margin-right: 4rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.card-r > h2{
+    font-weight: bold;
+    margin-top: 2rem;
+}
+.card-l > h2{
+    font-weight: bold;
+    margin-top: 2rem;
+}
+.card-m > h2{
+    font-weight: bold;
+    margin-top: 2rem;
+}

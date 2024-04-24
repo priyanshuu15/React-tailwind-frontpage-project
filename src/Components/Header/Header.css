@@ -1,0 +1,33 @@
+.header{
+    
+    height: 656px;
+}
+.title{
+    position: relative;
+    left: 1%;
+    top: 6%;
+}
+.List{
+    position: absolute;
+    left: 21%;
+    top: 5.4%; 
+}
+.name{
+    left: 6%;
+    top: 40.4%;
+}
+.image{
+    width: 34px;
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.2rem;
+}
+.image>img :nth-of-type(2){
+width: 10px;
+}
+.sideimg{
+    position: absolute;
+    left: 56%;
+    top: 12%;
+    width: 35rem;
+}

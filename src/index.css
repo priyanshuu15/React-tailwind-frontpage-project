@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* header.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Other custom CSS styles for your header */
